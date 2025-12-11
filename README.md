@@ -1,33 +1,104 @@
-<h1>Hi 👋, I'm a Full Stack Developer </h1>
-<p>A passionate Full Stack Developer crafting clean, scalable, and user-focused applications.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/vamshikrishna-nagula-174b6833a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mr_vamshi__x9/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vamshikrishna&show_icons=true&locale=en" alt="Vamshikrishna" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshikrishna&" alt="Vamshikrishna" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vamshikrishna&show_icons=true&locale=en&layout=compact" alt="Vamshikrishna" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna" alt="Vamshikrishna" /></a></p>
+<!-- ==================== -->
+<!--   GitHub Profile    -->
+<!-- ==================== -->
+
+<!-- Animated Intro Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B,+I'm+Vamshikrishna;Full+Stack+Developer+%7C+Frontend+Specialist;Building+modern+web+apps+with+MERN+%26+smooth+UI+interactions" alt="Intro-Banner"/>
+</div>
+
+---
+
+<h1 align="center">Hi 👋, I'm Vamshikrishna</h1>
+<h3 align="center">A passionate Full Stack Developer from Hyderabad, India — MERN & modern frontend</h3>
+
+<p align="center">
+  <a href="https://github.com/Vamshikrishna0372"><img alt="website" src="https://komarev.com/ghpvc/?username=Vamshikrishna0372&label=Profile+Views&color=0e75b6&style=flat" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vamshikrishna-nagula-174b6833a/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:nagulavamshi1453@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-nagulavamshi1453@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 About Me
+I’m a **Full Stack Developer** specializing in **MERN (MongoDB, Express, React, Node.js)** with a strong focus on building responsive, accessible, and high-performance web applications. I enjoy crafting smooth user interfaces using modern tools (GSAP, Tailwind CSS) and deploying projects on Vercel.
+
+I write clean, maintainable code, value good UI/UX, and love collaborating on real-world projects that deliver value.
+
+---
+
+## 🔭 Currently Working On
+- **ProLearn** — A modern learning platform (Frontend + UI polish)  
+  🔗 Live: https://pro-learn-gold.vercel.app/
+
+- **AgriGrow** — MERN e-commerce for farmers (Frontend & integrations)  
+  🔗 Live: https://agri-grow-frontend.vercel.app/
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,vercel,git,github,figma,postman,html,css,webpack&perline=8" alt="tech-icons"/>
+</div>
+
+---
+
+## 🧩 Projects
+### ProLearn — Learning Platform
+- Clean UI, course listing, responsive layout, and modular components.  
+- Live: https://pro-learn-gold.vercel.app/  
+- Focus: Frontend (React), component-driven design, responsive UX
+
+### AgriGrow — E-commerce for Farmers
+- MERN-based storefront focused on accessibility and simple checkout.  
+- Live: https://agri-grow-frontend.vercel.app/  
+- Focus: Frontend integrations, product listing, cart & UX improvements
+
+---
+
+## 📫 Contact & Links
+- **Email:** nagulavamshi1453@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/vamshikrishna-nagula-174b6833a/  
+- **Resume:** https://drive.google.com/file/d/1yzOa15hYU7mCT6pzIFKsPEaUc9MscQnq/view?usp=sharing  
+- **GitHub:** https://github.com/Vamshikrishna0372
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamshikrishna0372&show_icons=true&theme=tokyonight" alt="github-stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishna0372&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+
+---
+
+## 🔥 Activity & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vamshikrishna0372&theme=tokyonight" alt="streak-stats" />
+</p>
+
+---
+
+## ✨ Fun Fact
+I think I am funny 😄 — and I love turning ideas into polished, usable web products.
+
+---
+
+> If you'd like, I can:
+> - Add project screenshots (thumbnails) and short README links for each repo  
+> - Create a custom banner image that matches your personal brand  
+> - Export a simplified “one-line” LinkedIn-ready bio
+
+---
+
+<p align="center">
+  Made with ❤️ • <a href="https://github.com/Vamshikrishna0372">Vamshikrishna</a>
+</p>
+
