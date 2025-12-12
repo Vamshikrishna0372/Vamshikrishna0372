@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Vamshikrishna</h1>
+<h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
 <h3 align="center">A passionate Full Stack Developer from Hyderabad, India — MERN & modern frontend</h3>
 
 <p align="center">
@@ -61,7 +61,7 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 ## 📫 Contact & Links
 - **Email:** nagulavamshi1453@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/vamshikrishna-nagula-174b6833a/  
-- **Resume:** https://drive.google.com/file/d/1V0o_oTrb-XZ4hm205YREi0hlj8t02-km/view?usp=sharing
+- **Resume:** https://drive.google.com/file/d/1P80oVFZIcgyMu7hODZXWFXyFhhLdcl8z/view?usp=sharing
 - **GitHub:** https://github.com/Vamshikrishna0372
 
 ---
@@ -99,6 +99,6 @@ I think I am funny 😄 — and I love turning ideas into polished, usable web p
 ---
 
 <p align="center">
-  Made with ❤️ • <a href="https://github.com/Vamshikrishna0372">Vamshikrishna</a>
+  Made with ❤️ • <a href="https://github.com/Vamshikrishna0372">Vamshi Krishna</a>
 </p>
 
