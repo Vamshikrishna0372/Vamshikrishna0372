@@ -68,21 +68,25 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamshikrishna0372&show_icons=true&theme=tokyonight" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamshikrishna0372&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400" alt="github-stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishna0372&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishna0372&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" alt="top-langs" />
+</p>
+
+<p align="center">
+  <!-- Fallback badge shown if remote images blocked for some reason -->
+  <a href="https://github.com/Vamshikrishna0372">
+    <img src="https://img.shields.io/badge/View%20Profile-GitHub-181717?logo=github" alt="view profile" />
+  </a>
 </p>
 
 ---
 
 ## 🔥 Activity & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true&cache_seconds=86400" alt="trophies" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vamshikrishna0372&theme=tokyonight" alt="streak-stats" />
-</p>
 
 ---
 
