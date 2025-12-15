@@ -83,9 +83,11 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 ---
 
 ## 🔥 Activity & Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true&cache_seconds=86400" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
+
 
 
 ---
