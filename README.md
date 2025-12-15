@@ -82,11 +82,10 @@ I write clean, maintainable code, value good UI/UX, and love collaborating on re
 
 ---
 
-## 🔥 Activity & Achievements
+## 🔥 Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishna0372&theme=tokyo-night)
+
 
 
 
