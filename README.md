@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=950&lines=Vamshi+Krishna;AI+%26+Full+Stack+Software+Engineer;MERN+%7C+FastAPI+%7C+Scalable+Systems;Building+Production-Ready+Web+%26+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Vamshi+Krishna;AI+%26+Full+Stack+Software+Engineer;MERN+%7C+FastAPI+%7C+Computer+Vision;Building+Scalable+Web+%26+AI+Systems" />
 
-<br/><br/>
+<br/>
 
 <h1>Vamshi Krishna</h1>
 <h3>AI & Full Stack Software Engineer</h3>
@@ -27,11 +27,11 @@
 
 ## Professional Summary
 
-AI & Full Stack Software Engineer with experience building scalable web applications and intelligent real-time systems.
+AI & Full Stack Software Engineer with hands-on experience building scalable web platforms and intelligent real-time systems.
 
-Strong foundation in MERN stack development, FastAPI backend services, authentication systems, and AI-based workflows including computer vision and machine learning integrations.
+Strong foundation in MERN stack development, FastAPI backend services, authentication systems, RESTful API design, and AI-based workflows including computer vision and machine learning integrations.
 
-Focused on building secure, production-ready, and performance-optimized systems that combine web engineering with intelligent processing.
+Focused on developing secure, production-ready, and performance-optimized systems that combine web engineering with intelligent processing.
 
 ---
 
@@ -39,68 +39,55 @@ Focused on building secure, production-ready, and performance-optimized systems 
 
 ### Full Stack Developer  
 Student-Tech-Genesis (Student Initiative)  
-Jan 2025 – Present
+Jan 2025 – Present  
 
-- Developed full-stack web applications using MERN stack  
-- Designed REST APIs and implemented authentication & RBAC  
-- Integrated frontend-backend systems with modular architecture  
-- Participated in planning, testing, and deployment workflows  
+- Developed and maintained full-stack web applications using MERN stack  
+- Designed REST APIs and implemented authentication & role-based access control  
+- Integrated frontend and backend systems with modular architecture  
+- Collaborated across planning, testing, and deployment workflows  
 
 ---
 
 ## Projects
 
-### Nexvigil — AI-Powered Smart Surveillance System
-
-Real-time surveillance platform using deep learning for intelligent object detection across webcam, IP, and CCTV streams.
-
-- Implemented YOLOv8-based object detection using OpenCV
-- Built FastAPI backend for real-time processing
-- Developed React dashboard with role-based access control
-- Integrated alert generation with screenshots and recordings
-- Designed anomaly detection and risk scoring logic
-- Structured as a scalable full-stack AI system
-
+### Nexvigil — AI-Powered Smart Surveillance System  
+Real-time computer vision platform for intelligent monitoring across webcam, IP, and CCTV streams.  
+- YOLOv8-based object detection with OpenCV  
+- FastAPI backend for real-time AI processing  
+- React dashboard with role-based access control  
+- Alert generation, anomaly detection, and secure media storage  
 **Tech Stack:** Python, FastAPI, React, MongoDB, OpenCV, YOLOv8  
 
 ---
 
-### FeedbackPulse — Multi-Tenant SaaS Platform
-
-Full-stack feedback management system built using React, FastAPI, and MongoDB.
-
-- JWT-based authentication and RBAC  
+### FeedbackPulse — Multi-Tenant SaaS Platform  
+Scalable feedback management system designed for multi-company deployment.  
+- JWT authentication & RBAC  
 - Real-time dashboards and analytics modules  
-- Multi-company architecture design  
-- Deployment on Vercel and Render  
-
+- SaaS-ready backend architecture  
 **Tech Stack:** React, FastAPI, MongoDB  
 
 ---
 
-### ProLearn — Full Stack E-Learning Platform
-
-MERN-based learning platform with structured course workflows.
-
+### ProLearn — Full Stack E-Learning Platform  
+MERN-based learning ecosystem supporting course and mentorship workflows.  
 - User authentication and instructor dashboards  
-- Course and mentorship management  
-- Responsive cross-device UI  
-
-Live: https://pro-learn-gold.vercel.app/  
+- Course management with responsive UI  
 **Tech Stack:** React, Node.js, Express, MongoDB  
+Live Demo: https://pro-learn-gold.vercel.app/  
 
 ---
 
-### AgriGrow — Smart Agriculture Platform
-
-MERN-based agriculture solution with recommendation workflows.
-
-- Crop-based fertilizer recommendations  
-- Product filtering and order tracking  
-- Lightweight accessible interface  
-
-Live: https://agri-grow-frontend.vercel.app/  
+### AgriGrow — Smart Agriculture Platform  
+MERN application providing crop-based recommendations and streamlined purchasing workflows.  
+- Dynamic product filtering and order tracking  
+- Lightweight, accessibility-focused interface  
 **Tech Stack:** MongoDB, Express, React, Node.js  
+Live Demo: https://agri-grow-frontend.vercel.app/  
+
+---
+
+*Additional AI systems, backend services, and experimental full-stack projects are available in my repositories.*
 
 ---
 
@@ -115,11 +102,11 @@ Live: https://agri-grow-frontend.vercel.app/
 ## Engineering Focus
 
 - Scalable backend architecture  
-- Secure authentication systems  
+- Secure authentication and RBAC systems  
 - Real-time AI processing pipelines  
-- RESTful API design  
-- Computer Vision integration  
-- Clean and maintainable system design  
+- RESTful API design and integration  
+- Computer Vision systems  
+- Clean and maintainable code architecture  
 
 ---
 
@@ -137,18 +124,30 @@ Live: https://agri-grow-frontend.vercel.app/
 </div>
 
 ---
----
 
 ## 🏆 Achievements & Recognition
 
-### GitHub Contributions & Activity
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+## 📊 More Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vamshikrishna0372&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vamshikrishna0372&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vamshikrishna0372&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vamshikrishna0372&theme=tokyonight" />
 
 </div>
 
+---
 
 ## Connect
 
