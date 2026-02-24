@@ -137,6 +137,18 @@ Live: https://agri-grow-frontend.vercel.app/
 </div>
 
 ---
+---
+
+## 🏆 Achievements & Recognition
+
+### GitHub Contributions & Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vamshikrishna0372&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</div>
+
 
 ## Connect
 
